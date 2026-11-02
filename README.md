@@ -30,13 +30,3 @@
 ## Creative toolkit
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) `Dockerfile` ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-## Make something memorable
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=juanchinogueira&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F163085317%3Fu%3D5d29837747e837893582ba94822b8fd6e62c08ab%26v%3D4" alt="juanchinogueira social visual" />
-</p>
-
-<a href="https://github.com/juanchinogueira">GitHub</a>
-
-<p align="center"><sub>Juan Jose Nogueira · Creative portfolio generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
