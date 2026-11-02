@@ -18,19 +18,6 @@
 </table>
 </div>
 
-<p><sub>Estudiante ingenieria en sistemas UTN-FRBA</sub></p>
-
-<h2>Proof at a glance</h2>
-
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>6</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>2</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>36</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>2</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
-
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=juanchinogueira&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F163085317%3Fu%3D5d29837747e837893582ba94822b8fd6e62c08ab%26v%3D4&v=recruiter-stats-1&mode=light" />
