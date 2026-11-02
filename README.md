@@ -18,16 +18,6 @@
 </table>
 </div>
 
-<h2>What teams can evaluate quickly</h2>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · JavaScript · Go · Java</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>6 repositories · 2 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>36 contributions · 19 active days</p></td>
-</tr>
-</table>
-
 <p><sub>Estudiante ingenieria en sistemas UTN-FRBA</sub></p>
 
 <h2>Proof at a glance</h2>
